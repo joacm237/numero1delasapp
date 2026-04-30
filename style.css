@@ -8,9 +8,6 @@
 
 /* ----- GENERAL ----- */
 body {
-  background-color: #000;
-  overflow:hidden;
-  height:100vh;
   content:"";
   position:absolute;
   width: 200%;
