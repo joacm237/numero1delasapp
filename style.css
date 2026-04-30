@@ -7,7 +7,6 @@ body {
   height:100vh;
   overflow:hidden
   position:absolute;
-  background:black;
   body::before{
   content:"";
     width: 200%;
